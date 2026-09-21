@@ -10,9 +10,4 @@ PayerAccountId;LinkedAccountId;BillingPeriodStartDate;BillingPeriodEndDate;Produ
 123456789;987654321;01/02/2026;28/02/2026;Amazon Simple Storage Service;us-east1; $7.890,45 
 123456789;987654321;01/02/2026;28/02/2026;Amazon Simple Storage Service;us-east1; $12.875,81 
 123456789;987654321;01/02/2026;28/02/2026;Amazon Simple Storage Service;us-east1; $533,44 
-123456789;987654321;01/02/2026;28/02/2026;AWS Lambda;us-east1; $127,21 
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
+123456789;987654321;01/02/2026;28/02/2026;AWS Lambda;us-east1; $127,21

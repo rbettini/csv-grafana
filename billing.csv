@@ -11,3 +11,15 @@ PayerAccountId,"LinkedAccountId","BillingPeriodStartDate","BillingPeriodEndDate"
 123456789,"987654321","01/02/2026","28/02/2026","Amazon Simple Storage Service","us-east1",12875.81
 123456789,"987332221","01/02/2026","28/02/2026","Amazon Simple Storage Service","us-east1",533.44
 123456789,"987654321","01/02/2026","28/02/2026","AWS Lambda","us-east1",127.21
+123456789,"987654321","01/03/2026","31/03/2026","Amazon Elastic Compute Cloud","us-east2",21380.00
+123456789,"987654321","01/03/2026","31/03/2026","Amazon Relational Database Service","us-east1",32415.65
+123456789,"987654321","01/03/2026","31/03/2026","Amazon Simple Storage Service","us-east1",3989.00
+123456789,"987654321","01/03/2026","31/03/2026","AWS Lambda","us-east1",922.08
+123456789,"987654321","01/03/2026","31/03/2026","Amazon Elastic Compute Cloud","us-east2",17654.20
+123456789,"987654321","01/03/2026","31/03/2026","Amazon Elastic Compute Cloud","us-east2",5344.55
+123456789,"987654321","01/03/2026","31/03/2026","Amazon Elastic Compute Cloud","us-east2",4761.10
+123456789,"987332221","01/03/2026","31/03/2026","Amazon Relational Database Service","us-east1",28923.35
+123456789,"987654321","01/03/2026","31/03/2026","Amazon Simple Storage Service","us-east1",7890.45
+123456789,"987654321","01/03/2026","31/03/2026","Amazon Simple Storage Service","us-east1",12875.81
+123456789,"987332221","01/03/2026","31/03/2026","Amazon Simple Storage Service","us-east1",533.44
+123456789,"987654321","01/03/2026","31/03/2026","AWS Lambda","us-east1",127.21
